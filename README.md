@@ -4,11 +4,4 @@
 
 **Descrição:**
 
-Uma aplicação web simples desenvolvido durante a imersão da Alura com o Google Gemini, que permite pesquisar por conceitos de programação de forma rápida e eficiente. Ao digitar uma palavra-chave, o site ira procurar em sua base de dados `dados.js` e exibirá resultados relevantes como:
-
-<br>
-
-- **Linguagem:** A linguagem a qual esse elemento pertence.
-- **Descrição:** Uma breve descrrição sobre esse elemento.
-- **Link:** Um link para mais informações.
-
+Repositório com os códigos que desenvolvi durante a imersão Dev da Alura em parceria com o Google Gemini utilizando as linguagens `HTML`, `CSS` e `Javascript`. O projeto em si permite ao usuário pesquisar um conceito de proramação e o site retornará uma saída através da base de dados criada.
